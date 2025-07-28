@@ -1,0 +1,20 @@
+This is a sample PDF content for testing.
+
+Chapter 1: Introduction
+This document contains information about artificial intelligence and machine learning.
+AI has revolutionized many industries including healthcare, finance, and technology.
+
+Chapter 2: Machine Learning Basics
+Machine learning is a subset of artificial intelligence that enables computers to learn
+without being explicitly programmed. There are three main types of machine learning:
+supervised learning, unsupervised learning, and reinforcement learning.
+
+Chapter 3: Applications
+AI applications include:
+- Natural Language Processing
+- Computer Vision
+- Robotics
+- Autonomous Vehicles
+- Healthcare Diagnostics
+
+The future of AI looks very promising with continuous advancements in technology.
