@@ -1,0 +1,5 @@
+pinecone
+os
+dotenv
+time
+pypdf
